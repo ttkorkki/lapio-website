@@ -1,0 +1,16 @@
+h1 { 
+  color: blue; 
+}
+h2 {
+  color: crimson;
+}
+h3 {
+  color: purple;
+}
+.red {
+  color: red;
+}
+* {
+  color: gold;
+}
+
